@@ -15,4 +15,10 @@
 <img src="https://cdn.iconscout.com/icon/free/png-512/php-28-226043.png" alt="php" width="40" height="60"/>  
 </p>
 <br>
+  <style>
+    img {
+    padding-left: 8px;
+    padding-right: 8px;
+    }
+  </style>
 </html>
