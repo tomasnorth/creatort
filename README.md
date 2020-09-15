@@ -14,6 +14,7 @@
 <img style="padding: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img style="padding: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
 <img style="padding: 10px" src="https://cdn.iconscout.com/icon/free/png-512/php-28-226043.png" alt="php" width="40" height="60"/>  
+<img style="padding: 10px" src="https://i.ibb.co/NVmDqv4/download.jpg" alt="ejs" width="40" height="60"/>
 </p>
 <br>
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.alee14.vercel.app/api?username=creatort&show_icons=true&hide_border=true" />
