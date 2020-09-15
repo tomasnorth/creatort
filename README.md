@@ -5,7 +5,6 @@
 💻 ‏‏‎ ‎ Web & Backend JavaScript Developer<br>
 🏆 ‏‏‎ ‎Notable Project: Blastoff Framework<br>
 <html>
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.alee14.vercel.app/api?username=creatort&show_icons=true&hide_border=true" />
 <br>
   <br>
 <p>
@@ -17,4 +16,6 @@
 <img style="padding: 10px" src="https://cdn.iconscout.com/icon/free/png-512/php-28-226043.png" alt="php" width="40" height="60"/>  
 </p>
 <br>
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.alee14.vercel.app/api?username=creatort&show_icons=true&hide_border=true" />
+
 </html>
