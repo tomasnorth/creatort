@@ -2,11 +2,11 @@
 💬 ‏‏‎ ‎Tomas#9284<br>
 📫 ‏‏‎ ‎tomas@nosi.uk<br>
 🌎 ‏‏‎ ‎ nosi.uk / quackweb.co.uk<br>
-💻 ‏‏‎ ‎ Web & Backend JavaScript Developer<br>
+💻 ‏‏‎ ‎ Web & Backend JavaScript Developer, technically full stack ;)<br>
 🏆 ‏‏‎ ‎Notable Project: Blastoff Framework<br>
 <html>
 <br>
-  <p> Languages: </p>
+  <p> Languages & Frameworks used: </p>
 <p>
 <img style="padding: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 <img style="padding: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
