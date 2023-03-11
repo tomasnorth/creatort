@@ -1,4 +1,5 @@
 ## Hi there, I am Tomas.
 Discord: tomas#0042  
-Host: https://quackweb.co.uk  
-Email Contact: tomas@quackweb.co.uk  
+Email: correspondence@nosi.uk
+
+Operations Manager at TheatreDigitalized
