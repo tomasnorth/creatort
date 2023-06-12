@@ -1,5 +1,10 @@
 ## Hi there, I am Tomas.
-Discord: tomas#0042  
-Email: correspondence@nosi.uk
+I'm a web developer who designs and creates websites and web applications.
 
-Operations Manager at TheatreDigitalized
+### You can reach me on the following:
+Discord: @aaaatomas
+Email: tomas@nosi.uk
+
+### Current Roles
+Ops Manager at TheatreDigitalized
+Co-Founder at Fibel
